@@ -1,7 +1,7 @@
 
 
 
-# Read the documentation here https://ndsk.dev
+# Read the documentation [here](http://142.93.70.60:8001)
 # [中文文档](http://142.93.70.60:8001)
 
 # Introduction
