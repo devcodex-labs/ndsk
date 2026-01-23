@@ -2,7 +2,7 @@
 
 
 # Read the documentation here https://ndsk.dev
-# 中文文档 https://ndsk.dev/zh
+# [中文文档](http://142.93.70.60:8001)
 
 # Introduction
 **[ndsk](http://142.93.70.60:8001)** (node ​​stack) is a next-generation full-stack framework for JavaScript developers. It is designed to be very simple, allowing you to create secure, high-performance, high-quality programs with minimal code. It has powerful routing, flexible layout modes, fast compilation speed, extensible plug-ins and middleware, and supports server-side rendering (SSR), client-side rendering (CSR), static rendering (SSG), and hybrid mode `SSCR`. It almost makes up for all the shortcomings of other frameworks, all for the purpose of improving development efficiency.
