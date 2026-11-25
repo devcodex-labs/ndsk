@@ -1,5 +1,8 @@
-
-
+> [!IMPORTANT]
+> **ndsk (NodeStack) has been discontinued and is no longer maintained.**
+> For new Node.js projects, we recommend [VextJS](https://github.com/devcodex-labs/vextjs), an open-source framework for APIs and server-rendered React applications.
+>
+> **ndsk（NodeStack）已停止维护。** 新建 Node.js 项目推荐使用 [VextJS](https://github.com/devcodex-labs/vextjs)。
 
 # Read the documentation [here](http://142.93.70.60:8001)
 # [中文文档](http://142.93.70.60:8001)
